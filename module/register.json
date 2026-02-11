@@ -1,0 +1,16 @@
+[
+    {
+        "id": "9b0106bd-93bb-4647-927a-b5126ad99749",
+        "username": "ali",
+        "email": "alibek@example.com",
+        "password": "$2b$12$3IjY6mesRos38bJ.kf1QWO1CeSnBjr4BQG/zQX9XOhJYmpAS8Bj3S",
+        "role": "user"
+    },
+    {
+        "id": "1f824da9-85cf-4223-b94e-f027e6e5a8a3",
+        "username": "Maqsadbek",
+        "email": "alibekk@example.com",
+        "password": "$2b$12$kVNrGBKjEI8g5NwRiWhtuepPOF2Xj2qbnuqOWQ/GT7QO2dKQ9CS1W",
+        "role": "user"
+    }
+]
